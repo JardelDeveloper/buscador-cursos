@@ -23,7 +23,7 @@ Installed Dependencies:
 # 🆙 App Features
 
 - Searches the name of all courses in a section of the Alura website;
-- It performs three types of tests in the application, they are PHPUnit (Unit Test), PHPCS (Design Patterns) and PHAN (Static Analysis of code syntax).
+- It performs three types of tests in the application, they are PHPUnit (Unit Test), PHPCS (Design Patterns) and PHAN (Static Analysis of Code Syntax).
 
 # 👷 How to run?
 
