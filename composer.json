@@ -47,5 +47,9 @@
         "cs": "Test PHPCS (Design Patterns).",
         "phan": "Test PHAN (Static Analysis of code syntax).",
         "check": "Test PHAN, PHPCS and PHPUnit automatically."
-    }
+    },
+    "license": "MIT",
+    "bin": [
+        "buscar-cursos.php"
+    ]
 }
